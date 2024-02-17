@@ -1,0 +1,2 @@
+Place to your input for all days Advent of Code.
+To every single day you must paste different input and delete this message.
